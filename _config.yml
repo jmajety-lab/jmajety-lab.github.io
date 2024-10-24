@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jitesh Majety"
-  avatar : "/assets/images/MJ.jpeg"
+  avatar : "/assets/images/MJ.jpg"
   bio    : "Software Engineer with 3+ years of experience in building scalable Big Data applications. IBM Data Science and AWS Developer certified proficient in AWS, Python, and JavaScript with work visa F1-OPT in USA until 2027."
   links:
     - label: "Website"
